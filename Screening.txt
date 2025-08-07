@@ -1,0 +1,770 @@
+Who is known as the father of the Indian space program?
+A.P.J. Abdul Kalam
+Vikram Sarabhai
+Satish Dhawan
+Rakesh Sharma
+Answer: Vikram Sarabhai
+
+What does PSLV stand for in ISRO terminology?
+Polar Satellite Launch Vehicle
+Parallel Space Lift Vehicle
+Planetary Satellite Launch Vehicle
+Payload Space Launch Vehicle
+Answer: Polar Satellite Launch Vehicle
+
+Which rocket launched Chandrayaan-3 from India?
+PSLV-C37
+GSLV Mk II
+LVM3-M4 (GSLV Mk III)
+SLV-3
+Answer: LVM3-M4 (GSLV Mk III)
+
+Who was the first Indian to travel in space?
+Kalpana Chawla
+Rakesh Sharma
+Sunita Williams
+A.P.J. Abdul Kalam
+Answer: Rakesh Sharma
+
+What is India’s first space observatory called?
+Gaganyaan
+Astrosat
+Aryabhata
+Cartosat
+Answer: Astrosat
+
+How long was Chandrayaan-3’s lander and rover designed to operate on the Moon?
+14 Earth days (one lunar daytime)
+30 Earth days
+6 months
+Indefinitely
+Answer: 14 Earth days (one lunar daytime)
+
+Which ISRO test in 2024 demonstrated an autonomous, runway-style landing for a reusable launch vehicle named Pushpak?
+XPOSAT launch
+RLV LEX-02
+SpaDeX
+Gaganyaan Demo
+Answer: RLV LEX-02
+
+Which important discovery did Chandrayaan-1 confirm on the lunar surface?
+Presence of gold
+Presence of helium-3
+Presence of water molecules
+Presence of radioactive materials
+Answer: Presence of water molecules
+
+Which year did Chandrayaan-3 achieve India's first soft landing on the Moon’s south pole?
+2019
+2023
+2025
+2020
+Answer: 2023
+
+What is the name of India's regional satellite navigation system?
+GPS
+GLONASS
+NavIC
+Galileo
+Answer: NavIC
+
+Who succeeded Vikram Sarabhai as chairman of ISRO?
+A.P.J. Abdul Kalam
+Satish Dhawan
+U.R. Rao
+K. Sivan
+Answer: Satish Dhawan
+
+Which launch vehicle was used for the Chandrayaan-2 mission?
+PSLV-C37
+GSLV Mk III-M1
+GSLV Mk II
+PSLV-XL
+Answer: GSLV Mk III-M1
+
+What was India’s first satellite called?
+Rohini
+Aryabhata
+INSAT-1
+GSAT-1
+Answer: Aryabhata
+
+Which ISRO satellite was developed for oceanography studies?
+Oceansat
+Bhaskara
+Kalpana-1
+NavIC
+Answer: Oceansat
+
+When was ISRO formally established?
+1962
+1965
+1969
+1972
+Answer: 1969
+
+Which launch vehicle was used for launching Gaganyaan?
+PSLV-C57
+GSLV Mk III (LVM3)
+SSLV-D2
+ASLV-X
+Answer: GSLV Mk III (LVM3)
+
+Which Indian scientist was ISRO’s chairman during the Mangalyaan launch?
+K. Sivan
+G. Madhavan Nair
+K. Radhakrishnan
+Vikram Sarabhai
+Answer: K. Radhakrishnan
+
+Which satellite series was developed primarily for Indian telecommunications and broadcasting?
+IRS
+INSAT
+Cartosat
+RISAT
+Answer: INSAT
+
+Which Indian launch vehicle successfully placed the Rohini satellite into orbit?
+PSLV
+GSLV
+SLV-3
+LVM3
+Answer: SLV-3
+
+Which planet in our solar system has the most moons?
+Earth
+Mars
+Jupiter
+Neptune
+Answer: Jupiter
+
+How many satellites did ISRO launch in a single PSLV mission in 2017, setting a record?
+78
+55
+104
+120
+Answer: 104
+
+Which major launch site is used by ISRO?
+Kennedy Space Center
+Baikonur Cosmodrome
+Satish Dhawan Space Centre
+Jiuquan Satellite Launch Center
+Answer: Satish Dhawan Space Centre
+
+Which Indian satellite series uses microwave remote sensing?
+INSAT
+GSAT
+RISAT
+Cartosat
+Answer: RISAT
+
+What was the name of the rocket used to launch India’s first satellite Aryabhata?
+SLV
+PSLV
+GSLV
+Cosmos-3M
+Answer: Cosmos-3M
+
+Which mission confirmed the presence of water molecules on the Moon?
+Chandrayaan-1
+Chandrayaan-2
+Chandrayaan-3
+Mangalyaan
+Answer: Chandrayaan-1
+
+What is the name of the ISRO’s proposed Venus mission?
+Aditya
+Gaganyaan
+Shukrayaan
+Bhramyayaan
+Answer: Shukrayaan
+
+When did Chandrayaan-3 land near the lunar South Pole?
+15 July 2023
+5 August 2023
+23 August 2023
+7 September 2023
+Answer: 23 August 2023
+
+What was the main objective of Chandrayaan-3?
+Orbit Mars
+Soft landing and rover operations on the Moon
+Study the Sun
+Build a lunar base
+Answer: Soft landing and rover operations on the Moon
+
+Where is Chandrayaan-3’s landing site?
+Mare Tranquillitatis
+Moon’s North Pole
+Near the Moon’s South Pole at “Shiv Shakti” point
+Oceanus Procellarum
+Answer: Near the Moon’s South Pole at “Shiv Shakti” point
+
+What is the name of India’s mission to study the Sun?
+Astrosat
+Chandrayaan-3
+Aditya-L1
+Gaganyaan
+Answer: Aditya-L1
+
+How many payloads were on the Vikram lander of Chandrayaan-3?
+1
+2
+3
+4
+Answer: 4
+
+What is the expected mission life of Aditya-L1?
+6 months
+1 year
+5 years
+10 years
+Answer: 5 years
+
+Which of these Indian satellites is used for high-resolution Earth imaging?
+INSAT
+RISAT
+Cartosat
+GSAT
+Answer: Cartosat
+
+What was the name of the lander in Chandrayaan-3?
+Vikram
+Pragyan
+Aditya
+Sarabhai
+Answer: Vikram
+
+What was the name of the rover in Chandrayaan-3?
+Vikram
+Aryabhata
+Pragyan
+INSAT
+Answer: Pragyan
+
+Which energy source powered the Pragyan rover?
+Fuel cells
+Lithium-ion batteries
+Solar panels
+Nuclear battery
+Answer: Solar panels
+
+What was the name of the ISRO chairman during Chandrayaan-3?
+K. Sivan
+K. Radhakrishnan
+S. Somanath
+Vikram Sarabhai
+Answer: S. Somanath
+
+How many wheels does the Pragyan rover have?
+4
+6
+2
+3
+Answer: 6
+
+Which instrument on the Pragyan Rover helps in studying the mineral composition?
+APXS
+RAMBHA
+ILSA
+ChaSTE
+Answer: APXS
+
+The Gaganyaan mission plans to send how many astronauts in its first crewed flight?
+1
+2
+3
+5
+Answer: 3
+
+What is the full form of ILSA as used on Vikram?
+Instrument for Lunar Surface Analysis
+Internal Lander Seismic Analyzer
+Instrument for Lunar Seismic Activity
+Independent Lander Support Assembly
+Answer: Instrument for Lunar Seismic Activity
+
+What was the cost of Chandrayaan-3, approximately?
+₹400 crore
+₹615 crore
+₹950 crore
+₹1200 crore
+Answer: ₹615 crore
+
+Which Indian city is home to the Thumba Equatorial Rocket Launching Station?
+Mumbai
+Bengaluru
+Thiruvananthapuram
+Delhi
+Answer: Thiruvananthapuram
+
+Which event marked the “hop test” performed by the Vikram lander?
+Vikram launched another satellite
+Vikram jumped and landed again
+Vikram deployed a drone
+Vikram collected soil samples
+Answer: Vikram jumped and landed again
+
+What does the instrument RAMBHA study?
+Subsurface water
+Surface temperature
+Plasma environment
+Moonquakes
+Answer: Plasma environment
+
+What does ChaSTE (onboard Vikram) stand for?
+Chandrayaan Thermal Energy Sensor
+Chassis Structure Test Equipment
+Chandra Surface Thermal Experiment
+Chandra’s Surface Thermo Explorer
+Answer: Chandra Surface Thermal Experiment
+
+What is the maximum travel distance possible for the Pragyan rover on the Moon?
+10 meters
+100 meters
+500 meters
+1 km
+Answer: 100 meters
+
+How was communication maintained with the Pragyan rover?
+Directly with ISRO
+Through a Moon satellite
+Via the Vikram lander
+Through NASA relay
+Answer: Via the Vikram lander
+
+What new technology was added to Chandrayaan-3’s lander for improved landing?
+Extra fuel tank
+Laser Doppler Velocimeter
+Nuclear power source
+Solar wings
+Answer: Laser Doppler Velocimeter
+
+Why did ISRO not include an orbiter in Chandrayaan-3?
+To reduce cost
+The Chandrayaan-2 orbiter was still working
+No launch vehicle was available
+The Moon does not require orbiters anymore
+Answer: The Chandrayaan-2 orbiter was still working
+
+Which type of orbit was used for the Mars Orbiter Mission (Mangalyaan)?
+Geosynchronous Transfer Orbit
+Heliocentric Orbit
+Low Earth Orbit
+Highly Elliptical Orbit
+Answer: Highly Elliptical Orbit
+
+What is the name of ISRO’s autonomous docking, rendezvous mission realized in 2024?
+Aditya-L1
+SpaDeX
+Gaganyaan TV-D1
+CH-3 Orbiter
+Answer: SpaDeX
+
+Which ISRO satellite was launched for ocean studies?
+Oceansat
+Bhaskara
+Kalpana-1
+NavIC
+Answer: Oceansat
+
+Which launch vehicle set the record by launching 104 satellites in a single mission?
+SLV-3
+GSLV Mk III
+PSLV-C37
+LVM3-M4
+Answer: PSLV-C37
+
+What is a key output of India’s 2024 XPoSat mission?
+Water discovery on Mars
+X-ray polarisation measurements of astrophysical sources
+Solar wind monitoring
+Space debris mapping
+Answer: X-ray polarisation measurements of astrophysical sources
+
+Which of the following is NOT a scientific instrument on the Vikram lander?
+RAMBHA
+ILSA
+APXS
+ChaSTE
+Answer: APXS
+
+Aditya-L1 satellite will be positioned at which point?
+Moon orbit
+Earth’s orbit
+Sun's core
+Lagrangian Point 1 (L1)
+Answer: Lagrangian Point 1 (L1)
+
+Which major international recognition did Chandrayaan-3 bring to India?
+First country to orbit Mars
+First soft landing on Moon
+First country to land near Moon’s south pole
+First country to send human to Moon
+Answer: First country to land near Moon’s south pole
+
+What technology helped the Pragyan rover navigate the lunar surface?
+Artificial Intelligence
+Wheel sensors and navigation cameras
+Remote joystick control
+GPS
+Answer: Wheel sensors and navigation cameras
+
+What is the full form of APXS?
+Atom Probe X-ray Spectrometer
+Alpha Proton X-ray Spectrometer
+Alpha Particle X-ray Spectrometer
+Advanced Payload X-ray System
+Answer: Alpha Particle X-ray Spectrometer
+
+Which Indian scientist is known for being the “Missile Man of India”?
+U.R. Rao
+Vikram Sarabhai
+A.P.J. Abdul Kalam
+Rakesh Sharma
+Answer: A.P.J. Abdul Kalam
+
+Which Indian city is a main location for ISRO headquarters?
+Chennai
+Bengaluru
+Hyderabad
+Delhi
+Answer: Bengaluru
+
+The IRS series satellites are mainly used for:
+Weather forecasting
+Broadcasting
+Remote sensing
+Navigation
+Answer: Remote sensing
+
+Who was the first Indian woman in space?
+Sunita Williams
+Kalpana Chawla
+Tessy Thomas
+Ritu Karidhal
+Answer: Kalpana Chawla
+
+Which ISRO test vehicle was used for abort demonstration in the Gaganyaan mission?
+TV-D1
+TV-D2
+LVM3
+PSLV
+Answer: TV-D1
+
+Which Indian space mission was launched to Mars?
+Chandrayaan-1
+Mangalyaan
+Aditya-L1
+SpaDeX
+Answer: Mangalyaan
+
+What was the first Indian satellite launched from Indian soil?
+Aryabhata
+Bhaskara
+Rohini
+Cartosat
+Answer: Rohini
+
+Which mission was India’s first to Venus (proposed)?
+Gaganyaan
+Astrosat
+Shukrayaan
+Aditya-L1
+Answer: Shukrayaan
+
+Who is the first Indian astronaut as per ISRO’s Gaganyaan selection list (as of 2025)?
+Rakesh Sharma
+Gopi Thotakura
+Sunita Williams
+Ritu Karidhal
+Answer: Gopi Thotakura
+
+Which Indian scientist is often called the architect of the Indian space program’s success in the 1980s-90s?
+Satish Dhawan
+U.R. Rao
+K. Kasturirangan
+K. Sivan
+Answer: U.R. Rao
+
+Which was the first Indian satellite to be placed in geostationary orbit?
+INSAT-1A
+Aryabhata
+Rohini
+Cartosat
+Answer: INSAT-1A
+
+What is the main application of GSAT series satellites?
+Earth observation
+Telecommunication
+Navigation
+Meteorology
+Answer: Telecommunication
+
+The International Space Station orbits Earth at approximately:
+50 km
+2000 km
+400 km
+36,000 km
+Answer: 400 km
+
+Which type of sensors are used in RISAT satellites for imaging?
+Optical
+Radar
+Spectral
+Infrared
+Answer: Radar
+
+What is the theme of Chandrayaan-2’s orbiter main experiment?
+Mars atmosphere
+Solar wind
+Lunar mapping
+Venus study
+Answer: Lunar mapping
+
+Which launch vehicle is designed for launching smaller satellites for ISRO?
+PSLV
+GSLV
+SLV
+SSLV
+Answer: SSLV
+
+What material covers the solar panels of lunar rovers for durability?
+Kevlar
+Mylar
+Polyimide film
+Carbon fiber
+Answer: Polyimide film
+
+How many stages does the PSLV have?
+2
+3
+4
+5
+Answer: 4
+
+Which element is the most abundant in the lunar regolith?
+Iron
+Silicon
+Oxygen
+Calcium
+Answer: Oxygen
+
+From where does most of ISRO’s cryogenic technology come?
+India
+Russia
+USA
+France
+Answer: Russia
+
+The only natural satellite of Earth is:
+Mars
+The Moon
+Triton
+Venus
+Answer: The Moon
+
+Who was the project director of Chandrayaan-2?
+K. Sivan
+Mylswamy Annadurai
+Vanitha M.
+S. Somanath
+Answer: Vanitha M.
+
+The GSLV uses which fuel in its upper stage (Cryogenic)?
+Kerosene
+Liquid Oxygen and Hydrogen
+RP1 and Nitrogen Tetroxide
+Hydrazine
+Answer: Liquid Oxygen and Hydrogen
+
+Which ISRO satellite is focused on meteorological observation?
+INSAT-3D
+Cartosat
+GSAT-6
+RISAT-2
+Answer: INSAT-3D
+
+Who was the prime scientist behind India’s Mars mission?
+Ritu Karidhal
+K. Sivan
+S. Somanath
+Vanitha M.
+Answer: Ritu Karidhal
+
+Which satellite is dubbed as “India’s Eye in the Sky”?
+Cartosat-2
+GSAT-11
+RISAT-2B
+Astrosat
+Answer: RISAT-2B
+
+What is the minimum escape velocity from Earth?
+7 km/s
+1 km/s
+2 km/s
+5 km/s
+Answer: 11.2 km/s
+
+What is the orbital period of the Moon around Earth?
+7 days
+14 days
+21 days
+3 days
+Answer: 27.3 days
+
+Who is known as India’s “Rocket Woman”?
+Sunita Williams
+Ritu Karidhal
+Tessy Thomas
+Vanitha M.
+Answer: Tessy Thomas
+
+What does GSLV stand for?
+Global Satellite Launch Vehicle
+Geo Synchronous Launch Vehicle
+Grand Space Lifter Vehicle
+General Satellite Launching Vehicle
+Answer: Geo Synchronous Launch Vehicle
+
+What does ISRO stand for?
+Indian Space Research Organization
+Indian Society for Rocket Operations
+International Space Rescue Organization
+Institute for Space Research and Operations
+Answer: Indian Space Research Organization
+
+How many astronauts have walked on the Moon?
+6
+8
+12
+16
+Answer: 12
+
+Which Indian mission studied Near-Earth Objects in its payloads?
+Chandrayaan-1
+Astrosat
+XPoSat
+None
+Answer: None
+
+Which Indian satellite series started the remote sensing revolution for India?
+IRS
+INSAT
+GSAT
+RISAT
+Answer: IRS
+
+Which Indian space mission involved the first indigenous cryogenic stage?
+PSLV-C9
+GSLV-D5
+GSLV Mk III
+ASLV
+Answer: GSLV-D5
+
+Who is known as the “Satellite Man of India”?
+K. Radhakrishnan
+U.R. Rao
+K. Sivan
+Vikram Sarabhai
+Answer: U.R. Rao
+
+Which rocket is called “Bahubali” (strongman) by ISRO?
+PSLV
+GSLV Mk III
+SLV
+LVM3
+Answer: GSLV Mk III
+
+The Chandrayaan-2 mission failed due to:
+Rocket explosion
+Communication loss during descent
+Wrong launch time
+Pollution
+Answer: Communication loss during descent
+
+In which year did India launch its first satellite Aryabhata?
+1972
+1975
+1979
+1983
+Answer: 1975
+
+Who was director of Vikram Sarabhai Space Centre as of 2024?
+S. Somanath
+S. Unnikrishnan Nair
+K. Radhakrishnan
+U.R. Rao
+Answer: S. Unnikrishnan Nair
+
+Bonus / Advanced 10 Questions (101–110)
+Which city houses the U R Rao Satellite Centre (URSC)?
+Mumbai
+Bengaluru
+Chennai
+Hyderabad
+Answer: Bengaluru
+
+What was the first Indian lunar mission?
+Mangalyaan
+Chandrayaan-1
+Gaganyaan
+Vikram
+Answer: Chandrayaan-1
+
+Who was the first woman director of an Indian satellite mission?
+Vanitha M.
+Tessy Thomas
+Ritu Karidhal
+Kalpana Chawla
+Answer: Vanitha M.
+
+The Chandrayaan-2’s rover was named:
+Pragyan
+Vikram
+Aryabhata
+Aditya
+Answer: Pragyan
+
+Which Indian rocket was used for the world’s highest number of satellite deployments in a single launch (2017)?
+PSLV-C37
+PSLV-C9
+GSLV Mk III
+SLV-3
+Answer: PSLV-C37
+
+Which Gaganyaan test validated crew escape in 2023?
+SpaDeX
+TV-D1
+RLV LEX
+SSLV Demo
+Answer: TV-D1
+
+Name the first ISRO satellite with a synthetic aperture radar (SAR).
+Cartosat-2
+RISAT-1
+Insat-3DR
+Oceansat-2
+Answer: RISAT-1
+
+What is the role of NavIC?
+Space debris mapping
+Satellite internet
+Satellite navigation
+X-ray astronomy
+Answer: Satellite navigation
+
+What was India’s first interplanetary mission?
+Chandrayaan-1
+Mangalyaan
+Astrosat
+Gaganyaan
+Answer: Mangalyaan
+
+Which experiment on Chandrayaan-3 lander measured lunar surface temperature?
+RAMBHA
+ChaSTE
+APXS
+ILSA
+Answer: ChaSTE

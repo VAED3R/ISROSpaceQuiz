@@ -1,0 +1,139 @@
+What was the name of the lander in the Chandrayaan-3 mission?
+Vikram
+Pragyan
+Aditya
+Sarabhai
+Answer: Vikram
+
+What was the name of the rover deployed by Chandrayaan-3?
+Vikram
+Aryabhata
+Pragyan
+INSAT
+Answer: Pragyan
+
+How many wheels does the Pragyan rover have?
+4
+6
+2
+3
+Answer: 6
+
+Which ISRO chairman was in charge during the Chandrayaan-3 mission?
+K. Sivan
+K. Radhakrishnan
+S. Somanath
+Vikram Sarabhai
+Answer: S. Somanath
+
+Which energy source powered the Pragyan rover?
+Fuel cells
+Lithium-ion batteries
+Solar panels
+Nuclear battery
+Answer: Solar panels
+
+Which of the following was not a scientific instrument aboard the Vikram lander?
+RAMBHA
+ILSA
+APXS
+ChaSTE
+Answer: APXS
+
+What does the instrument RAMBHA on Vikram Lander study?
+Subsurface water
+Surface temperature
+Plasma environment
+Moonquakes
+Answer: Plasma environment
+
+What does ChaSTE (onboard Vikram) stand for?
+Chandrayaan Thermal Energy Sensor
+Chassis Structure Test Equipment
+Chandra Surface Thermal Experiment
+Chandra’s Surface Thermo Explorer
+Answer: Chandra Surface Thermal Experiment
+
+Which instrument on Pragyan Rover helps in studying the mineral composition?
+APXS
+RAMBHA
+ILSA
+ChaSTE
+Answer: APXS
+
+What is the full form of ILSA used in the Vikram lander?
+Instrument for Lunar Surface Analysis
+Internal Lander Seismic Analyzer
+Instrument for Lunar Seismic Activity
+Independent Lander Support Assembly
+Answer: Instrument for Lunar Seismic Activity
+
+What makes the Vikram lander of Chandrayaan-3 different from that of Chandrayaan-2?
+It is lighter
+It had no landing legs
+It has enhanced landing sensors and algorithms
+It had an attached orbiter
+Answer: It has enhanced landing sensors and algorithms
+
+How many payloads were there on the Vikram lander?
+1
+2
+3
+4
+Answer: 4
+
+What key event marked the "hop test" performed by Vikram lander after landing?
+Vikram launched another satellite
+Vikram jumped and landed again
+Vikram deployed a drone
+Vikram collected soil samples
+Answer: Vikram jumped and landed again
+
+Why did ISRO not include an orbiter in Chandrayaan-3?
+To reduce cost
+The Chandrayaan-2 orbiter was still working
+No launch vehicle was available
+The Moon does not require orbiters anymore
+Answer: The Chandrayaan-2 orbiter was still working
+
+What was the cost of the Chandrayaan-3 mission approximately?
+₹400 crore
+₹615 crore
+₹950 crore
+₹1200 crore
+Answer: ₹615 crore
+
+How far could the Pragyan rover travel on the Moon’s surface?
+10 meters
+100 meters
+500 meters
+1 km
+Answer: 100 meters
+
+How was communication maintained with Pragyan rover?
+Directly with ISRO
+Through a Moon satellite
+Via the Vikram lander
+Through NASA relay
+Answer: Via the Vikram lander
+
+Which of the following was a new addition to the Chandrayaan-3 lander for better landing success?
+Extra fuel tank
+Laser Doppler Velocimeter
+Nuclear power source
+Solar wings
+Answer: Laser Doppler Velocimeter
+
+Which major international recognition did Chandrayaan-3 bring to India?
+First country to orbit Mars
+First soft landing on Moon
+First country to land near Moon’s south pole
+First country to send human to Moon
+Answer: First country to land near Moon’s south pole
+
+Which technology helped the rover to move on the Moon’s rough terrain?
+Artificial Intelligence
+Wheel sensors and navigation cameras
+Remote joystick control
+GPS
+Answer: Wheel sensors and navigation cameras

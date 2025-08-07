@@ -1,0 +1,139 @@
+Which rocket launched Chandrayaan-3 from India?
+PSLV-C37
+GSLV Mk II
+LVM3-M4 (GSLV Mk III)
+SLV-3
+Answer: LVM3-M4 (GSLV Mk III)
+
+How long was Chandrayaan-3’s lander and rover designed to operate on the Moon?
+14 Earth days (one lunar daytime)
+30 Earth days
+6 months
+Indefinitely
+Answer: 14 Earth days (one lunar daytime)
+
+Which important discovery did Chandrayaan-3 confirm on the lunar surface?
+Presence of gold
+Presence of helium-3
+Presence of water molecules
+Presence of radioactive materials
+Answer: Presence of water molecules
+
+Which year did Chandrayaan-3 achieve India's first soft landing on the Moon’s south pole?
+2019
+2023
+2025
+2020
+Answer: 2023
+
+How many satellites did ISRO launch in a single PSLV mission in 2017, setting a record?
+78
+55
+104
+120
+Answer: 104
+
+What is the name of India's regional satellite navigation system developed by ISRO?
+GPS
+GLONASS
+NavIC
+Galileo
+Answer: NavIC
+
+Which ISRO test in 2024 demonstrated an autonomous, runway-style landing for a reusable launch vehicle named Pushpak?
+XPOSAT launch
+RLV LEX-02
+SpaDeX
+Gaganyaan Demo
+Answer: RLV LEX-02
+
+What was the key scientific output of India’s XPoSat mission launched in January 2024?
+Water discovery on Mars
+X-ray polarisation measurements of astrophysical sources
+Solar wind monitoring
+Space debris mapping
+Answer: X-ray polarisation measurements of astrophysical sources
+
+India achieved successful spacecraft rendezvous, docking, and undocking for the first time with which mission in December 2024?
+Aditya-L1
+SpaDeX
+Gaganyaan TV-D1
+CH-3 Orbiter
+Answer: SpaDeX
+
+India’s world record for launching 104 satellites in a single mission was set on which rocket?
+SLV-3
+GSLV Mk III
+PSLV-C37
+LVM3-M4
+Answer: PSLV-C37
+
+Which Indian scientist was the chairman of ISRO during Mangalyaan's launch?
+K. Sivan
+G. Madhavan Nair
+K. Radhakrishnan
+Vikram Sarabhai
+Answer: K. Radhakrishnan
+
+What is the name of ISRO’s proposed mission to Venus?
+Aditya
+Gaganyaan
+Shukrayaan
+Bhramyayaan
+Answer: Shukrayaan
+
+Which launch vehicle was used for the Chandrayaan-2 mission?
+PSLV-C37
+GSLV Mk III-M1
+GSLV Mk II
+PSLV-XL
+Answer: GSLV Mk III-M1
+
+Which type of orbit was used for the Mars Orbiter Mission (Mangalyaan)?
+Geosynchronous Transfer Orbit
+Heliocentric Orbit
+Low Earth Orbit
+Highly Elliptical Orbit
+Answer: Highly Elliptical Orbit
+
+Aditya-L1 will be positioned at which location in space?
+Moon orbit
+Earth’s orbit
+Sun's core
+Lagrangian Point 1 (L1)
+Answer: Lagrangian Point 1 (L1)
+
+The Gaganyaan mission plans to send how many astronauts in its first crewed flight?
+1
+2
+3
+5
+Answer: 3
+
+What is the total mission life of Aditya-L1 expected to be?
+6 months
+1 year
+5 years
+10 years
+Answer: 5 years
+
+Which Indian satellite series is used for high-resolution Earth imaging?
+INSAT
+RISAT
+Cartosat
+GSAT
+Answer: Cartosat
+
+Which launch vehicle was used for launching Gaganyaan?
+PSLV-C57
+GSLV Mk III (LVM3)
+SSLV-D2
+ASLV-X
+Answer: GSLV Mk III (LVM3)
+
+Which ISRO satellite was developed for oceanography studies?
+Oceansat
+Bhaskara
+Kalpana-1
+NavIC
+Answer: Oceansat

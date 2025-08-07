@@ -1,0 +1,321 @@
+Who is known as the father of the Indian space program?
+A.P.J. Abdul Kalam
+Vikram Sarabhai
+Satish Dhawan
+Rakesh Sharma
+Answer: B
+
+What does PSLV stand for in ISRO terminology?
+Polar Satellite Launch Vehicle
+Parallel Space Lift Vehicle
+Planetary Satellite Launch Vehicle
+Payload Space Launch Vehicle
+Answer: A
+
+Who was the first Indian to travel in space?
+Kalpana Chawla
+Rakesh Sharma
+Sunita Williams
+A.P.J. Abdul Kalam
+Answer: B
+
+What is India’s first space observatory called?
+Gaganyaan
+Astrosat
+Aryabhata
+Cartosat
+Answer: B
+
+Which of these is a major launch site for ISRO?
+Kennedy Space Center
+Baikonur Cosmodrome
+Satish Dhawan Space Centre
+Jiuquan Satellite Launch Center
+Answer: C
+
+Which planet in our solar system has the most moons?
+Earth
+Mars
+Jupiter
+Neptune
+Answer: C
+
+Which Indian satellite series is known for using microwave remote sensing?
+INSAT
+GSAT
+RISAT
+Cartosat
+Answer: C
+
+What was the name of the rocket used by ISRO to launch India’s first satellite, Aryabhata?
+SLV
+PSLV
+GSLV
+Cosmos-3M
+Answer: D
+
+When was ISRO formally established?
+1962
+1965
+1969
+1972
+Answer: C
+
+What was India’s first satellite?
+Rohini
+Aryabhata
+INSAT-1
+GSAT-1
+Answer: B
+
+Which Indian launch vehicle successfully placed the Rohini satellite into orbit?
+PSLV
+GSLV
+SLV-3
+LVM3
+Answer: C
+
+Which mission confirmed the presence of water molecules on the Moon?
+Chandrayaan-1
+Chandrayaan-2
+Chandrayaan-3
+Mangalyaan
+Answer: A
+
+What was the name of India's first mission to study the Sun?
+Astrosat
+Chandrayaan-3
+Aditya-L1
+Gaganyaan
+Answer: C
+
+Who succeeded Vikram Sarabhai as chairman of ISRO?
+A.P.J. Abdul Kalam
+Satish Dhawan
+U.R. Rao
+K. Sivan
+Answer: B
+
+Which satellite series was primarily developed for telecommunications and broadcasting in India?
+IRS
+INSAT
+Cartosat
+RISAT
+Answer: B
+
+Which place is home to the Thumba Equatorial Rocket Launching Station?
+Mumbai
+Bengaluru
+Thiruvananthapuram
+Delhi
+Answer: C
+
+What is the expected launch window for India’s Gaganyaan human spaceflight mission (as of 2025)?
+2023
+2025
+2026
+2040
+Answer: C
+
+Which mission marked India’s first successful space docking demonstration (as of 2025)?
+Chandrayaan-3
+Aditya-L1
+Unnamed demonstration mission (January 2025)
+Gaganyaan
+Answer: C
+
+When did Chandrayaan-3 successfully land near the lunar South Pole?
+15 July 2023
+5 August 2023
+23 August 2023
+7 September 2023
+Answer: C
+
+What are the names of Chandrayaan-3's lander and rover?
+Vikram and Pragyan
+Aryabhata and Mangalyaan
+Aditya and Surya
+Rohini and Gaganyaan
+Answer: A
+
+Which rocket launched Chandrayaan-3 from India?
+PSLV-C37
+GSLV Mk II
+LVM3-M4 (GSLV Mk III)
+SLV-3
+Answer: C
+
+What was the main objective of the Chandrayaan-3 mission?
+Orbit Mars
+Soft landing and rover operations on the Moon
+Study the Sun
+Build a lunar base
+Answer: B
+
+How long was Chandrayaan-3’s lander and rover designed to operate on the Moon?
+14 Earth days (one lunar daytime)
+30 Earth days
+6 months
+Indefinitely
+Answer: A
+
+Where is the Chandrayaan-3 landing site located?
+Mare Tranquillitatis
+Moon’s North Pole
+Near the Moon’s South Pole at “Shiv Shakti” point
+Oceanus Procellarum
+Answer: C
+
+Which important discovery did Chandrayaan-3 confirm on the lunar surface?
+Presence of gold
+Presence of helium-3
+Presence of water molecules
+Presence of radioactive materials
+Answer: C
+
+Which year did Chandrayaan-3 achieve India's first soft landing on the Moon’s south pole?
+2019
+2023
+2025
+2020
+Answer: B
+
+How many satellites did ISRO launch in a single PSLV mission in 2017, setting a record?
+78
+55
+104
+120
+Answer: C
+
+What is the name of India's regional satellite navigation system developed by ISRO?
+GPS
+GLONASS
+NavIC
+Galileo
+Answer: C
+
+Which ISRO test in 2024 demonstrated an autonomous, runway-style landing for a reusable launch vehicle named Pushpak?
+XPOSAT launch
+RLV LEX-02
+SpaDeX
+Gaganyaan Demo
+Answer: B
+
+What was the key scientific output of India’s XPoSat mission launched in January 2024?
+Water discovery on Mars
+X-ray polarisation measurements of astrophysical sources
+Solar wind monitoring
+Space debris mapping
+Answer: B
+
+India achieved successful spacecraft rendezvous, docking, and undocking for the first time with which mission in December 2024?
+Aditya-L1
+SpaDeX
+Gaganyaan TV-D1
+CH-3 Orbiter
+Answer: B
+
+India’s world record for launching 104 satellites in a single mission was set on which rocket?
+SLV-3
+GSLV Mk III
+PSLV-C37
+LVM3-M4
+Answer: C
+
+What is the term for the path an object takes as it revolves around a star, planet, or moon?
+Axis
+Orbit
+Rotation
+Revolution
+Answer: B
+
+What is the main component of the Sun?
+Hydrogen
+Helium
+Oxygen
+Carbon
+Answer: A
+
+What is the term for a star that suddenly increases greatly in brightness due to a catastrophic explosion?
+Comet
+Supernova
+Asteroid
+Meteor
+Answer: B
+
+Which planet is closest to the Sun?
+Earth
+Mercury
+Venus
+Mars
+Answer: B
+
+What phenomenon causes the Northern and Southern Lights?
+Solar flares
+Earth's magnetic field
+Asteroid impacts
+Gravitational waves
+Answer: A
+
+What is the visible part of the Sun called?
+Corona
+Chromosphere
+Photosphere
+Core
+Answer: C
+
+Who was the first person to travel into space?
+Neil Armstrong
+Yuri Gagarin
+Buzz Aldrin
+Alan Shepard
+Answer: B
+
+The asteroid belt is located between which two planets?
+Earth and Mars
+Mars and Jupiter
+Jupiter and Saturn
+Saturn and Uranus
+Answer: B
+
+Who was the first woman to set the record for the longest single spaceflight by a woman?
+Peggy Whitson
+Valentina Tereshkova
+Christina Koch
+Sally Ride
+Answer: C
+
+Which Indian satellite is known as the heaviest communication satellite?
+GSAT-11
+INSAT-3DR
+Cartosat-2
+RISAT-2B
+Answer: A
+
+Which of the following is NOT a dwarf planet?
+Pluto
+Ceres
+Eris
+Europa
+Answer: D
+
+Which planet is famous for its Great Red Spot storm?
+Mars
+Saturn
+Jupiter
+Neptune
+Answer: C
+
+Which is the closest star system to our own solar system?
+Alpha Centauri
+Betelgeuse
+Sirius
+Procyon
+Answer: A
+
+Which planet rotates on its side, causing extreme seasons?
+Neptune
+Uranus
+Mercury
+Mars
+Answer: B
